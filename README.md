@@ -7,7 +7,7 @@ This project focuses on detecting G-LOC (G-force-induced Loss Of Consciousness) 
 - **Hardware:**
   - STM32H563ZI NUCLEO Board
   - X-NUCLEO-IKS01A2 MEMS Expansion Board (or compatible MEMS sensor for STM32)
-  
+    
 - **Software:**
   - STM32CubeIDE (latest version)
   - STM32CubeMX (for configuration and initialization)
